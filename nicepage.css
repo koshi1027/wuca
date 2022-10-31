@@ -6056,9 +6056,8 @@ ul.u-text li:last-child {
   margin-bottom: 0px;
 }
 .u-backlink {
-  position: relative;
-  text-align: center;
-  padding: 1em;
+    position: relative;
+    text-align: center;
 }
 .u-backlink a:first-letter {
   text-transform: capitalize;
@@ -28475,8 +28474,8 @@ section.u-grey-80:before,
 .u-grey-80.u-sidenav:before,
 .u-container-layout.u-container-layout.u-grey-80:before,
 .u-table-alt-grey-80 tr:nth-child(even) {
-  color: #ffffff;
-  background-color: #333333;
+    color: #ffffff;
+    background-color: #303d45;
 }
 .u-button-style.u-grey-80,
 .u-button-style.u-grey-80[class*="u-border-"] {
