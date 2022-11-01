@@ -39202,6 +39202,10 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
+  .u-header .u-sheet-1 {
+    min-height: 269px;
+  }
+
   .u-header .u-text-1 {
     margin-left: 988px;
   }
